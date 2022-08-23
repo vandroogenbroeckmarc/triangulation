@@ -660,7 +660,7 @@ Table 1 Comparison of various triangulation algorithms to our ToTal algorithm 
 <a class="toc" name="toc-Subsection-2.1">2.1</a> Download the C source code (zip package)
 </h2>
 <div class="Standard">
-<a class="Label" name="sec:C-source-code"> </a>Follow <a class="URL" href="triangulation.zip">this link</a> to get the programs and C source code [<a class="URL" href="triangulation.zip">triangulation.zip</a>]. The package contains programs that you can directly use: 
+<a class="Label" name="sec:C-source-code"> </a>Follow <a class="URL" href="triangulation.zip">this link</a> to get the programs and C source code in a single package [<a class="URL" href="triangulation.zip">triangulation.zip</a>]; files are also accessible <a class="URL" href="src_libtriangulation">in this directory</a>. The package contains programs that you can directly use: 
 </div>
 <div class="Description">
 <span class="Description-entry">bin_win32/triangulation.exe</span> for Windows users.
