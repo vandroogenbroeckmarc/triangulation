@@ -1,0 +1,9 @@
+<map id="beaconSensitivity" name="beaconSensitivity">
+<area shape="rect" id="node3" href="$toolbox_8c.html#a847cbe2997d753f361f1a79af8e3c844" title="gaussianRand" alt="" coords="195,5,299,35"/>
+<area shape="rect" id="node5" href="$toolbox_8c.html#aba1a653831eff26631a9837dda4e6560" title="get_angles" alt="" coords="204,59,289,88"/>
+<area shape="rect" id="node7" href="$toolbox_8c.html#affc667f54d3aad05a212a708a1967851" title="Initializes the random number generator with current time." alt="" coords="212,112,281,141"/>
+<area shape="rect" id="node9" href="$toolbox_8c.html#a7f274f166f90b360011418cd7694cd70" title="Computes the algebraic mean of the array data[] of length N." alt="" coords="401,203,455,232"/>
+<area shape="rect" id="node12" href="$toolbox_8c.html#a6a482138d4690ba2119da2693898c077" title="triangulationMethod" alt="" coords="180,293,313,323"/>
+<area shape="rect" id="node16" href="$toolbox_8c.html#a2b24b4ce84e9248766e86c961cdc97c9" title="Computes the variance of the array data[] of length N." alt="" coords="212,240,281,269"/>
+<area shape="rect" id="node14" href="$total_8c.html#a22955e684b3037704daad53ef74af8f7" title="triangulationPierlot" alt="" coords="364,293,492,323"/>
+</map>

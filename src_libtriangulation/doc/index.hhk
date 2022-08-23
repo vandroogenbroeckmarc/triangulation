@@ -1,0 +1,405 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<HTML><HEAD></HEAD><BODY>
+<OBJECT type="text/site properties">
+<param name="FrameName" value="right">
+</OBJECT>
+<UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="const_8h.html#a3aa069ac3980707dae1e0530f50d59e4"><param name="Name" value="abs"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="const_8h.html#ac4f448a87911d36d10ff74948800eba2"><param name="Name" value="adjust_value_to_bounds"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="triangulation_8c.html#a6c8fad838ed64cc67da3f68149009758"><param name="Name" value="AUTHOR"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structcolor.html#abcdb38440689f11a57906016c30db0fa"><param name="Name" value="b"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="citelist.html"><param name="Name" value="Bibliographic References"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="cassini_8c.html"><param name="Name" value="cassini.c"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="cassini_8h.html"><param name="Name" value="cassini.h"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="cohen_8c.html"><param name="Name" value="cohen.c"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="cohen_8c.html#a78a20655420e18b5de72dd77c6e03fc8"><param name="Name" value="triangulationCohenGeometric"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="cohen_8c.html#a6e0b234638c675de4dcc69ac4291d9b2"><param name="Name" value="triangulationCohenGeometricOriginal"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="cohen_8c.html#a85a4617621d73fdfa8a46a7feb5bc4d1"><param name="Name" value="triangulationCohenTrigo"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="cohen_8h.html"><param name="Name" value="cohen.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="cohen_8h.html#a78a20655420e18b5de72dd77c6e03fc8"><param name="Name" value="triangulationCohenGeometric"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="cohen_8h.html#a6e0b234638c675de4dcc69ac4291d9b2"><param name="Name" value="triangulationCohenGeometricOriginal"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="cohen_8h.html#a85a4617621d73fdfa8a46a7feb5bc4d1"><param name="Name" value="triangulationCohenTrigo"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="collins_8c.html"><param name="Name" value="collins.c"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="collins_8h.html"><param name="Name" value="collins.h"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structcolor.html"><param name="Name" value="color"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structcolor.html#abcdb38440689f11a57906016c30db0fa"><param name="Name" value="b"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structcolor.html#ab8d0eace02390e6d8ff451010331f0f1"><param name="Name" value="g"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structcolor.html#a165fe0ed6433017b284aef5c2e8e5c0b"><param name="Name" value="r"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="const_8h.html"><param name="Name" value="const.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="const_8h.html#a3aa069ac3980707dae1e0530f50d59e4"><param name="Name" value="abs"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="const_8h.html#ac4f448a87911d36d10ff74948800eba2"><param name="Name" value="adjust_value_to_bounds"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="const_8h.html#a904f6a99d92b0a870f6d70311c1c25a1"><param name="Name" value="Cos"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="const_8h.html#a6206888a2b6074087251cb08ecebe974"><param name="Name" value="cot"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="const_8h.html#a5627e5cba5f878297dd6cc2c60cc16ba"><param name="Name" value="Cot"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="const_8h.html#a7bdef79f1a7408a5390cff159fd8afc3"><param name="Name" value="COT_MAX"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="const_8h.html#af7e8592d0a634bd3642e9fd508ea8022"><param name="Name" value="DEG2RAD"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="const_8h.html#a51691be277b6d2a5d45e83224a53bf5e"><param name="Name" value="FOURPI"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="const_8h.html#a59d83d878ab677f99e48bd48ad80eef0"><param name="Name" value="HALFPI"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="const_8h.html#a5f3dab00b9fc3634ffd566653884f913"><param name="Name" value="INVQUARTPI"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="const_8h.html#aac685a39173395db3b3018f35f2490db"><param name="Name" value="INVTWOPI"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="const_8h.html#a598a3330b3c21701223ee0ca14316eca"><param name="Name" value="PI"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="const_8h.html#a42c6ee704d5995650dea8305ee1d2930"><param name="Name" value="QUARTPI"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="const_8h.html#ac5a945020d3528355cda82d383676736"><param name="Name" value="RAD2DEG"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="const_8h.html#a32b9d26d41b3abfb95377c2f0b81e6ac"><param name="Name" value="Sin"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="const_8h.html#ad72b92015e435713086bd6475fdfcf07"><param name="Name" value="Tan"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="const_8h.html#ab3fa7873ea61533948a657eaf4631c39"><param name="Name" value="tfloat"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="const_8h.html#a4912c64aec0c943b7985db6cb61ff83a"><param name="Name" value="TWOPI"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="const_8h.html#a904f6a99d92b0a870f6d70311c1c25a1"><param name="Name" value="Cos"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="const_8h.html#a6206888a2b6074087251cb08ecebe974"><param name="Name" value="cot"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="const_8h.html#a5627e5cba5f878297dd6cc2c60cc16ba"><param name="Name" value="Cot"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="const_8h.html#a7bdef79f1a7408a5390cff159fd8afc3"><param name="Name" value="COT_MAX"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="triangulation_8c.html#a757270399c58ee77d55574a55e2774b7"><param name="Name" value="DEFAULT_PROGNAME"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="const_8h.html#af7e8592d0a634bd3642e9fd508ea8022"><param name="Name" value="DEG2RAD"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="toolbox_8c.html#a4b441c3ab8d732db25d51c71526ac4f3"><param name="Name" value="detMatrix33"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="toolbox_8c.html#a4b441c3ab8d732db25d51c71526ac4f3"><param name="Name" value="toolbox.c"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="toolbox_8h.html#a4b441c3ab8d732db25d51c71526ac4f3"><param name="Name" value="toolbox.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="easton_8c.html"><param name="Name" value="easton.c"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="easton_8h.html"><param name="Name" value="easton.h"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="triangulation_8c.html#a74d70486d35eca725d11d4b3f3b68574"><param name="Name" value="EMAIL"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="esteves_8c.html"><param name="Name" value="esteves.c"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="esteves_8h.html"><param name="Name" value="esteves.h"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="fontllagunes_8c.html"><param name="Name" value="fontllagunes.c"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="fontllagunes_8c.html#ad094b350d031dd5a04307aebfd06e5f7"><param name="Name" value="triangulationFontLlagunes"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="fontllagunes_8c.html#a8715268a2d9572e90adc7b80fbb3849f"><param name="Name" value="triangulationFontLlagunes2"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="fontllagunes_8h.html"><param name="Name" value="fontllagunes.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="fontllagunes_8h.html#ad094b350d031dd5a04307aebfd06e5f7"><param name="Name" value="triangulationFontLlagunes"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="fontllagunes_8h.html#a8715268a2d9572e90adc7b80fbb3849f"><param name="Name" value="triangulationFontLlagunes2"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="const_8h.html#a51691be277b6d2a5d45e83224a53bf5e"><param name="Name" value="FOURPI"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structcolor.html#ab8d0eace02390e6d8ff451010331f0f1"><param name="Name" value="g"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="toolbox_8c.html#a847cbe2997d753f361f1a79af8e3c844"><param name="Name" value="gaussianRand"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="toolbox_8c.html#a847cbe2997d753f361f1a79af8e3c844"><param name="Name" value="toolbox.c"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="toolbox_8h.html#a77b707e99275a093cd29b29cf4d3f0a2"><param name="Name" value="toolbox.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="toolbox_8c.html#aba1a653831eff26631a9837dda4e6560"><param name="Name" value="get_angles"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="toolbox_8c.html#aba1a653831eff26631a9837dda4e6560"><param name="Name" value="toolbox.c"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="toolbox_8h.html#aba1a653831eff26631a9837dda4e6560"><param name="Name" value="toolbox.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="toolbox_8c.html#ace549b4d10eb93c431b79547f7014f6e"><param name="Name" value="grayscale2RGB"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="toolbox_8c.html#ace549b4d10eb93c431b79547f7014f6e"><param name="Name" value="toolbox.c"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="toolbox_8h.html#ace549b4d10eb93c431b79547f7014f6e"><param name="Name" value="toolbox.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="const_8h.html#a59d83d878ab677f99e48bd48ad80eef0"><param name="Name" value="HALFPI"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="hmam_8c.html"><param name="Name" value="hmam.c"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="hmam_8h.html"><param name="Name" value="hmam.h"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="toolbox_8c.html#affc667f54d3aad05a212a708a1967851"><param name="Name" value="initRand"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="toolbox_8c.html#affc667f54d3aad05a212a708a1967851"><param name="Name" value="toolbox.c"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="toolbox_8h.html#a7a84ea28dcd455bd8e6e1a16bb134a07"><param name="Name" value="toolbox.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="const_8h.html#a5f3dab00b9fc3634ffd566653884f913"><param name="Name" value="INVQUARTPI"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="const_8h.html#aac685a39173395db3b3018f35f2490db"><param name="Name" value="INVTWOPI"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="kaestner_8c.html"><param name="Name" value="kaestner.c"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="kaestner_8h.html"><param name="Name" value="kaestner.h"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="ligas_8c.html"><param name="Name" value="ligas.c"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="ligas_8h.html"><param name="Name" value="ligas.h"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="lukic_8c.html"><param name="Name" value="lukic.c"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="lukic_8c.html#a6320a25547c4a277d015a15d4ca5befd"><param name="Name" value="triangulationLukic"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="lukic_8c.html#a1d0d9b60f052722a2cea76ceabdc0c54"><param name="Name" value="triangulationLukicOriginal"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="lukic_8h.html"><param name="Name" value="lukic.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="lukic_8h.html#a6320a25547c4a277d015a15d4ca5befd"><param name="Name" value="triangulationLukic"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="lukic_8h.html#a1d0d9b60f052722a2cea76ceabdc0c54"><param name="Name" value="triangulationLukicOriginal"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="madsen_8c.html"><param name="Name" value="madsen.c"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="madsen_8h.html"><param name="Name" value="madsen.h"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="triangulation_8c.html#a0ddf1224851353fc92bfbff6f499fa97"><param name="Name" value="main"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="toolbox_8c.html#ae8932e4ab801dd99606ed7ad2149f3c8"><param name="Name" value="map_to_grayscale_hist"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="toolbox_8c.html#a52a47d3e09733a5e68fa034f72d8de13"><param name="Name" value="map_to_grayscale_hist_comp"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="toolbox_8c.html#afb87e76b2a08b2e8051ef8f537e60a80"><param name="Name" value="map_to_grayscale_lin"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="toolbox_8c.html#a305362bd8c4251c5c5ee3059560c51cd"><param name="Name" value="map_to_grayscale_log"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="toolbox_8c.html#ae6f6561fd382301e3082598f86c4f9af"><param name="Name" value="map_to_grayscale_sat"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="toolbox_8c.html#a4809d6dfe206ded28146ef855500357a"><param name="Name" value="mapRGB"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="toolbox_8c.html#a4809d6dfe206ded28146ef855500357a"><param name="Name" value="toolbox.c"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="toolbox_8h.html#af8b5a22ead2961231dc63802e6e513e8"><param name="Name" value="toolbox.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="mcgillem_8c.html"><param name="Name" value="mcgillem.c"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="mcgillem_8c.html#a148024b2a97215e95256a6339576d67e"><param name="Name" value="triangulationMcGillemGeometric"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="mcgillem_8c.html#af5b9471bbc6290bf541e9a29424d77f7"><param name="Name" value="triangulationMcGillemTrigo"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="mcgillem_8h.html"><param name="Name" value="mcgillem.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="mcgillem_8h.html#a148024b2a97215e95256a6339576d67e"><param name="Name" value="triangulationMcGillemGeometric"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="mcgillem_8h.html#af5b9471bbc6290bf541e9a29424d77f7"><param name="Name" value="triangulationMcGillemTrigo"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="toolbox_8c.html#a7f274f166f90b360011418cd7694cd70"><param name="Name" value="mean"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="toolbox_8c.html#a7f274f166f90b360011418cd7694cd70"><param name="Name" value="toolbox.c"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="toolbox_8h.html#a7f274f166f90b360011418cd7694cd70"><param name="Name" value="toolbox.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="const_8h.html#a598a3330b3c21701223ee0ca14316eca"><param name="Name" value="PI"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structstruct__map__to__grayscale.html#a24f992b310dae0d323ed96da6621a280"><param name="Name" value="pos"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="const_8h.html#a42c6ee704d5995650dea8305ee1d2930"><param name="Name" value="QUARTPI"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structcolor.html#a165fe0ed6433017b284aef5c2e8e5c0b"><param name="Name" value="r"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="const_8h.html#ac5a945020d3528355cda82d383676736"><param name="Name" value="RAD2DEG"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="toolbox_8c.html#ac0c0db52184d0ee89fc3d9909d83054b"><param name="Name" value="saveMapAndScale"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="toolbox_8c.html#ac0c0db52184d0ee89fc3d9909d83054b"><param name="Name" value="toolbox.c"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="toolbox_8h.html#a8f1074723cdda54f7f44f09be3224151"><param name="Name" value="toolbox.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="const_8h.html#a32b9d26d41b3abfb95377c2f0b81e6ac"><param name="Name" value="Sin"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structstruct__map__to__grayscale.html"><param name="Name" value="struct_map_to_grayscale"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structstruct__map__to__grayscale.html#a24f992b310dae0d323ed96da6621a280"><param name="Name" value="pos"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structstruct__map__to__grayscale.html#a28985e56188bb0082953c4282236f48f"><param name="Name" value="value"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="toolbox_8c.html#ad5d27ab0a61092e12d94164d65e839cb"><param name="Name" value="SWP"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="const_8h.html#ad72b92015e435713086bd6475fdfcf07"><param name="Name" value="Tan"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="triangulation_8c.html#abd8ea59f4d8d4060bf6df358f177d730"><param name="Name" value="test0"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="triangulation_8c.html#a1106ae49141185c60ccd65fffbfb9712"><param name="Name" value="test1"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="triangulation_8c.html#a2407d10ff3d1c690302ceec905b0788d"><param name="Name" value="test2"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="triangulation_8c.html#a5514226701a367e24021787ede5d4fdb"><param name="Name" value="test3"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="triangulation_8c.html#afc77f90e17cb12e7948d76f3685bca54"><param name="Name" value="test4"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="triangulation_8c.html#af10d0846b4af36128d0fcf9038691e1d"><param name="Name" value="test5"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="const_8h.html#ab3fa7873ea61533948a657eaf4631c39"><param name="Name" value="tfloat"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="tienstra_8c.html"><param name="Name" value="tienstra.c"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="tienstra_8h.html"><param name="Name" value="tienstra.h"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="toolbox_8c.html"><param name="Name" value="toolbox.c"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="toolbox_8c.html#a4b441c3ab8d732db25d51c71526ac4f3"><param name="Name" value="detMatrix33"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="toolbox_8c.html#a847cbe2997d753f361f1a79af8e3c844"><param name="Name" value="gaussianRand"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="toolbox_8c.html#aba1a653831eff26631a9837dda4e6560"><param name="Name" value="get_angles"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="toolbox_8c.html#ace549b4d10eb93c431b79547f7014f6e"><param name="Name" value="grayscale2RGB"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="toolbox_8c.html#affc667f54d3aad05a212a708a1967851"><param name="Name" value="initRand"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="toolbox_8c.html#ae8932e4ab801dd99606ed7ad2149f3c8"><param name="Name" value="map_to_grayscale_hist"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="toolbox_8c.html#a52a47d3e09733a5e68fa034f72d8de13"><param name="Name" value="map_to_grayscale_hist_comp"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="toolbox_8c.html#afb87e76b2a08b2e8051ef8f537e60a80"><param name="Name" value="map_to_grayscale_lin"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="toolbox_8c.html#a305362bd8c4251c5c5ee3059560c51cd"><param name="Name" value="map_to_grayscale_log"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="toolbox_8c.html#ae6f6561fd382301e3082598f86c4f9af"><param name="Name" value="map_to_grayscale_sat"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="toolbox_8c.html#a4809d6dfe206ded28146ef855500357a"><param name="Name" value="mapRGB"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="toolbox_8c.html#a7f274f166f90b360011418cd7694cd70"><param name="Name" value="mean"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="toolbox_8c.html#ac0c0db52184d0ee89fc3d9909d83054b"><param name="Name" value="saveMapAndScale"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="toolbox_8c.html#ad5d27ab0a61092e12d94164d65e839cb"><param name="Name" value="SWP"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="toolbox_8c.html#ae9d575df6c4c6db178bf2d3df0adfec4"><param name="Name" value="triangulationGDOP"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="toolbox_8c.html#a6a482138d4690ba2119da2693898c077"><param name="Name" value="triangulationMethod"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="toolbox_8c.html#a06309c944ce2da888c533dd76414ae13"><param name="Name" value="triangulationSensitivity"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="toolbox_8c.html#a2b24b4ce84e9248766e86c961cdc97c9"><param name="Name" value="variance"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="toolbox_8c.html#a179642ffc02461cf9774d80ea8cb9184"><param name="Name" value="writePGM"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="toolbox_8c.html#a3cc67f0a313727d4cb8a9b790e1f6923"><param name="Name" value="writePPM"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="toolbox_8h.html"><param name="Name" value="toolbox.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="toolbox_8h.html#a4b441c3ab8d732db25d51c71526ac4f3"><param name="Name" value="detMatrix33"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="toolbox_8h.html#a77b707e99275a093cd29b29cf4d3f0a2"><param name="Name" value="gaussianRand"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="toolbox_8h.html#aba1a653831eff26631a9837dda4e6560"><param name="Name" value="get_angles"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="toolbox_8h.html#ace549b4d10eb93c431b79547f7014f6e"><param name="Name" value="grayscale2RGB"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="toolbox_8h.html#a7a84ea28dcd455bd8e6e1a16bb134a07"><param name="Name" value="initRand"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="toolbox_8h.html#af8b5a22ead2961231dc63802e6e513e8"><param name="Name" value="mapRGB"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="toolbox_8h.html#a7f274f166f90b360011418cd7694cd70"><param name="Name" value="mean"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="toolbox_8h.html#a8f1074723cdda54f7f44f09be3224151"><param name="Name" value="saveMapAndScale"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="toolbox_8h.html#ae9d575df6c4c6db178bf2d3df0adfec4"><param name="Name" value="triangulationGDOP"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="toolbox_8h.html#a6a482138d4690ba2119da2693898c077"><param name="Name" value="triangulationMethod"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="toolbox_8h.html#a06309c944ce2da888c533dd76414ae13"><param name="Name" value="triangulationSensitivity"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="toolbox_8h.html#a2b24b4ce84e9248766e86c961cdc97c9"><param name="Name" value="variance"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="toolbox_8h.html#a179642ffc02461cf9774d80ea8cb9184"><param name="Name" value="writePGM"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="toolbox_8h.html#a3cc67f0a313727d4cb8a9b790e1f6923"><param name="Name" value="writePPM"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="total_8c.html"><param name="Name" value="total.c"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="total_8c.html#a22955e684b3037704daad53ef74af8f7"><param name="Name" value="triangulationPierlot"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="total_8c.html#ab87c69a5278b97edd26dfcd62118243f"><param name="Name" value="triangulationPierlot2"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="total_8h.html"><param name="Name" value="total.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="total_8h.html#a22955e684b3037704daad53ef74af8f7"><param name="Name" value="triangulationPierlot"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="total_8h.html#ab87c69a5278b97edd26dfcd62118243f"><param name="Name" value="triangulationPierlot2"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="triangulation_8c.html"><param name="Name" value="triangulation.c"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="triangulation_8c.html#a6c8fad838ed64cc67da3f68149009758"><param name="Name" value="AUTHOR"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="triangulation_8c.html#a757270399c58ee77d55574a55e2774b7"><param name="Name" value="DEFAULT_PROGNAME"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="triangulation_8c.html#a74d70486d35eca725d11d4b3f3b68574"><param name="Name" value="EMAIL"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="triangulation_8c.html#a0ddf1224851353fc92bfbff6f499fa97"><param name="Name" value="main"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="triangulation_8c.html#abd8ea59f4d8d4060bf6df358f177d730"><param name="Name" value="test0"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="triangulation_8c.html#a1106ae49141185c60ccd65fffbfb9712"><param name="Name" value="test1"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="triangulation_8c.html#a2407d10ff3d1c690302ceec905b0788d"><param name="Name" value="test2"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="triangulation_8c.html#a5514226701a367e24021787ede5d4fdb"><param name="Name" value="test3"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="triangulation_8c.html#afc77f90e17cb12e7948d76f3685bca54"><param name="Name" value="test4"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="triangulation_8c.html#af10d0846b4af36128d0fcf9038691e1d"><param name="Name" value="test5"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="triangulation_8c.html#a45fc708a2dd038a9dcd60f56aeb3e01b"><param name="Name" value="usage"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="triangulation_8c.html#a1c6d5de492ac61ad29aec7aa9a436bbf"><param name="Name" value="VERSION"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="cassini_8c.html#a7727643ea91b673c410fdb0ec1b84ed8"><param name="Name" value="triangulationCassini"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="cassini_8c.html#a7727643ea91b673c410fdb0ec1b84ed8"><param name="Name" value="cassini.c"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="cassini_8h.html#a7727643ea91b673c410fdb0ec1b84ed8"><param name="Name" value="cassini.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="cohen_8c.html#a78a20655420e18b5de72dd77c6e03fc8"><param name="Name" value="triangulationCohenGeometric"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="cohen_8c.html#a78a20655420e18b5de72dd77c6e03fc8"><param name="Name" value="cohen.c"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="cohen_8h.html#a78a20655420e18b5de72dd77c6e03fc8"><param name="Name" value="cohen.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="cohen_8c.html#a6e0b234638c675de4dcc69ac4291d9b2"><param name="Name" value="triangulationCohenGeometricOriginal"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="cohen_8c.html#a6e0b234638c675de4dcc69ac4291d9b2"><param name="Name" value="cohen.c"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="cohen_8h.html#a6e0b234638c675de4dcc69ac4291d9b2"><param name="Name" value="cohen.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="cohen_8c.html#a85a4617621d73fdfa8a46a7feb5bc4d1"><param name="Name" value="triangulationCohenTrigo"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="cohen_8c.html#a85a4617621d73fdfa8a46a7feb5bc4d1"><param name="Name" value="cohen.c"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="cohen_8h.html#a85a4617621d73fdfa8a46a7feb5bc4d1"><param name="Name" value="cohen.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="collins_8c.html#a7a388734d112f16e74fa22af14ae410d"><param name="Name" value="triangulationCollins"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="collins_8c.html#a7a388734d112f16e74fa22af14ae410d"><param name="Name" value="collins.c"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="collins_8h.html#a7a388734d112f16e74fa22af14ae410d"><param name="Name" value="collins.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="easton_8c.html#a365c70093592f4e9ba9267e57fbbe36c"><param name="Name" value="triangulationEaston"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="easton_8c.html#a365c70093592f4e9ba9267e57fbbe36c"><param name="Name" value="easton.c"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="easton_8h.html#a365c70093592f4e9ba9267e57fbbe36c"><param name="Name" value="easton.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="esteves_8c.html#a23004bbef3851e0aa27f2a84543d11bc"><param name="Name" value="triangulationEsteves"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="esteves_8c.html#a23004bbef3851e0aa27f2a84543d11bc"><param name="Name" value="esteves.c"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="esteves_8h.html#a23004bbef3851e0aa27f2a84543d11bc"><param name="Name" value="esteves.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="fontllagunes_8c.html#a8715268a2d9572e90adc7b80fbb3849f"><param name="Name" value="triangulationFontLlagunes2"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="fontllagunes_8c.html#a8715268a2d9572e90adc7b80fbb3849f"><param name="Name" value="fontllagunes.c"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="fontllagunes_8h.html#a8715268a2d9572e90adc7b80fbb3849f"><param name="Name" value="fontllagunes.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="fontllagunes_8c.html#ad094b350d031dd5a04307aebfd06e5f7"><param name="Name" value="triangulationFontLlagunes"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="fontllagunes_8c.html#ad094b350d031dd5a04307aebfd06e5f7"><param name="Name" value="fontllagunes.c"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="fontllagunes_8h.html#ad094b350d031dd5a04307aebfd06e5f7"><param name="Name" value="fontllagunes.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="toolbox_8c.html#ae9d575df6c4c6db178bf2d3df0adfec4"><param name="Name" value="triangulationGDOP"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="toolbox_8c.html#ae9d575df6c4c6db178bf2d3df0adfec4"><param name="Name" value="toolbox.c"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="toolbox_8h.html#ae9d575df6c4c6db178bf2d3df0adfec4"><param name="Name" value="toolbox.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="hmam_8c.html#a0ef47b9ee2cab193d9eb77a728040a67"><param name="Name" value="triangulationHmam"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="hmam_8c.html#a0ef47b9ee2cab193d9eb77a728040a67"><param name="Name" value="hmam.c"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="hmam_8h.html#a0ef47b9ee2cab193d9eb77a728040a67"><param name="Name" value="hmam.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="kaestner_8c.html#a1c56af13698a81dfd56131e976ba354c"><param name="Name" value="triangulationKaestner"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="kaestner_8c.html#a1c56af13698a81dfd56131e976ba354c"><param name="Name" value="kaestner.c"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="kaestner_8h.html#a1c56af13698a81dfd56131e976ba354c"><param name="Name" value="kaestner.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="ligas_8c.html#a9ebc48d46a5a2cee91ff7e26d3d9311a"><param name="Name" value="triangulationLigas"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="ligas_8c.html#a9ebc48d46a5a2cee91ff7e26d3d9311a"><param name="Name" value="ligas.c"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="ligas_8h.html#a9ebc48d46a5a2cee91ff7e26d3d9311a"><param name="Name" value="ligas.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="lukic_8c.html#a6320a25547c4a277d015a15d4ca5befd"><param name="Name" value="triangulationLukic"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="lukic_8c.html#a6320a25547c4a277d015a15d4ca5befd"><param name="Name" value="lukic.c"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="lukic_8h.html#a6320a25547c4a277d015a15d4ca5befd"><param name="Name" value="lukic.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="lukic_8c.html#a1d0d9b60f052722a2cea76ceabdc0c54"><param name="Name" value="triangulationLukicOriginal"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="lukic_8c.html#a1d0d9b60f052722a2cea76ceabdc0c54"><param name="Name" value="lukic.c"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="lukic_8h.html#a1d0d9b60f052722a2cea76ceabdc0c54"><param name="Name" value="lukic.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="madsen_8c.html#a4ae6c99fd3128b907419bf5130b5bc22"><param name="Name" value="triangulationMadsen"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="madsen_8c.html#a4ae6c99fd3128b907419bf5130b5bc22"><param name="Name" value="madsen.c"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="madsen_8h.html#a4ae6c99fd3128b907419bf5130b5bc22"><param name="Name" value="madsen.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="mcgillem_8c.html#a148024b2a97215e95256a6339576d67e"><param name="Name" value="triangulationMcGillemGeometric"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="mcgillem_8c.html#a148024b2a97215e95256a6339576d67e"><param name="Name" value="mcgillem.c"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="mcgillem_8h.html#a148024b2a97215e95256a6339576d67e"><param name="Name" value="mcgillem.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="mcgillem_8c.html#af5b9471bbc6290bf541e9a29424d77f7"><param name="Name" value="triangulationMcGillemTrigo"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="mcgillem_8c.html#af5b9471bbc6290bf541e9a29424d77f7"><param name="Name" value="mcgillem.c"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="mcgillem_8h.html#af5b9471bbc6290bf541e9a29424d77f7"><param name="Name" value="mcgillem.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="toolbox_8c.html#a6a482138d4690ba2119da2693898c077"><param name="Name" value="triangulationMethod"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="toolbox_8c.html#a6a482138d4690ba2119da2693898c077"><param name="Name" value="toolbox.c"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="toolbox_8h.html#a6a482138d4690ba2119da2693898c077"><param name="Name" value="toolbox.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="total_8c.html#ab87c69a5278b97edd26dfcd62118243f"><param name="Name" value="triangulationPierlot2"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="total_8c.html#ab87c69a5278b97edd26dfcd62118243f"><param name="Name" value="total.c"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="total_8h.html#ab87c69a5278b97edd26dfcd62118243f"><param name="Name" value="total.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="total_8c.html#a22955e684b3037704daad53ef74af8f7"><param name="Name" value="triangulationPierlot"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="total_8c.html#a22955e684b3037704daad53ef74af8f7"><param name="Name" value="total.c"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="total_8h.html#a22955e684b3037704daad53ef74af8f7"><param name="Name" value="total.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="toolbox_8c.html#a06309c944ce2da888c533dd76414ae13"><param name="Name" value="triangulationSensitivity"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="toolbox_8c.html#a06309c944ce2da888c533dd76414ae13"><param name="Name" value="toolbox.c"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="toolbox_8h.html#a06309c944ce2da888c533dd76414ae13"><param name="Name" value="toolbox.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="tienstra_8c.html#a3ea237182ec23cab352db11ceb62bae5"><param name="Name" value="triangulationTienstra"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="tienstra_8c.html#a3ea237182ec23cab352db11ceb62bae5"><param name="Name" value="tienstra.c"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="tienstra_8h.html#a3ea237182ec23cab352db11ceb62bae5"><param name="Name" value="tienstra.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="tsukiyama_8c.html#a640c490ea637d29eb02a690842ee8752"><param name="Name" value="triangulationTsukiyama"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="tsukiyama_8c.html#a640c490ea637d29eb02a690842ee8752"><param name="Name" value="tsukiyama.c"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="tsukiyama_8h.html#a640c490ea637d29eb02a690842ee8752"><param name="Name" value="tsukiyama.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="tsukiyama_8c.html#a51b20184d167d2142b898fd9c2686f54"><param name="Name" value="triangulationTsukiyamaOriginal"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="tsukiyama_8c.html#a51b20184d167d2142b898fd9c2686f54"><param name="Name" value="tsukiyama.c"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="tsukiyama_8h.html#a51b20184d167d2142b898fd9c2686f54"><param name="Name" value="tsukiyama.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="zalama_8c.html#a7275d3721f8d884e06ea62e22828ece0"><param name="Name" value="triangulationZalama"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="zalama_8c.html#a7275d3721f8d884e06ea62e22828ece0"><param name="Name" value="zalama.c"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="zalama_8h.html#a7275d3721f8d884e06ea62e22828ece0"><param name="Name" value="zalama.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="tsukiyama_8c.html"><param name="Name" value="tsukiyama.c"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="tsukiyama_8c.html#a640c490ea637d29eb02a690842ee8752"><param name="Name" value="triangulationTsukiyama"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="tsukiyama_8c.html#a51b20184d167d2142b898fd9c2686f54"><param name="Name" value="triangulationTsukiyamaOriginal"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="tsukiyama_8h.html"><param name="Name" value="tsukiyama.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="tsukiyama_8h.html#a640c490ea637d29eb02a690842ee8752"><param name="Name" value="triangulationTsukiyama"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="tsukiyama_8h.html#a51b20184d167d2142b898fd9c2686f54"><param name="Name" value="triangulationTsukiyamaOriginal"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="const_8h.html#a4912c64aec0c943b7985db6cb61ff83a"><param name="Name" value="TWOPI"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="triangulation_8c.html#a45fc708a2dd038a9dcd60f56aeb3e01b"><param name="Name" value="usage"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structstruct__map__to__grayscale.html#a28985e56188bb0082953c4282236f48f"><param name="Name" value="value"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="toolbox_8c.html#a2b24b4ce84e9248766e86c961cdc97c9"><param name="Name" value="variance"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="toolbox_8c.html#a2b24b4ce84e9248766e86c961cdc97c9"><param name="Name" value="toolbox.c"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="toolbox_8h.html#a2b24b4ce84e9248766e86c961cdc97c9"><param name="Name" value="toolbox.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="triangulation_8c.html#a1c6d5de492ac61ad29aec7aa9a436bbf"><param name="Name" value="VERSION"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="toolbox_8c.html#a179642ffc02461cf9774d80ea8cb9184"><param name="Name" value="writePGM"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="toolbox_8c.html#a179642ffc02461cf9774d80ea8cb9184"><param name="Name" value="toolbox.c"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="toolbox_8h.html#a179642ffc02461cf9774d80ea8cb9184"><param name="Name" value="toolbox.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="toolbox_8c.html#a3cc67f0a313727d4cb8a9b790e1f6923"><param name="Name" value="writePPM"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="toolbox_8c.html#a3cc67f0a313727d4cb8a9b790e1f6923"><param name="Name" value="toolbox.c"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="toolbox_8h.html#a3cc67f0a313727d4cb8a9b790e1f6923"><param name="Name" value="toolbox.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="zalama_8c.html"><param name="Name" value="zalama.c"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="zalama_8h.html"><param name="Name" value="zalama.h"></OBJECT>
+</UL>
+</BODY>
+</HTML>

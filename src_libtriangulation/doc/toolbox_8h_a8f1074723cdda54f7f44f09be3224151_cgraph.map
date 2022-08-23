@@ -1,0 +1,11 @@
+<map id="saveMapAndScale" name="saveMapAndScale">
+<area shape="rect" id="node3" href="$toolbox_8c.html#ace549b4d10eb93c431b79547f7014f6e" title="Convert a grayscale to an RGB image." alt="" coords="205,5,320,35"/>
+<area shape="rect" id="node7" href="$toolbox_8c.html#ae8932e4ab801dd99606ed7ad2149f3c8" title="map_to_grayscale_hist" alt="" coords="185,59,340,88"/>
+<area shape="rect" id="node11" href="$toolbox_8c.html#afb87e76b2a08b2e8051ef8f537e60a80" title="map_to_grayscale_lin" alt="" coords="189,112,336,141"/>
+<area shape="rect" id="node13" href="$toolbox_8c.html#a305362bd8c4251c5c5ee3059560c51cd" title="map_to_grayscale_log" alt="" coords="187,165,339,195"/>
+<area shape="rect" id="node15" href="$toolbox_8c.html#ae6f6561fd382301e3082598f86c4f9af" title="map_to_grayscale_sat" alt="" coords="187,219,339,248"/>
+<area shape="rect" id="node18" href="$toolbox_8c.html#a179642ffc02461cf9774d80ea8cb9184" title="writePGM" alt="" coords="223,272,303,301"/>
+<area shape="rect" id="node20" href="$toolbox_8c.html#a3cc67f0a313727d4cb8a9b790e1f6923" title="writePPM" alt="" coords="224,325,301,355"/>
+<area shape="rect" id="node5" href="$toolbox_8c.html#a4809d6dfe206ded28146ef855500357a" title="mapRGB" alt="" coords="449,5,524,35"/>
+<area shape="rect" id="node9" href="$toolbox_8c.html#a52a47d3e09733a5e68fa034f72d8de13" title="map_to_grayscale_hist_comp" alt="" coords="389,139,584,168"/>
+</map>
