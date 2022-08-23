@@ -10,7 +10,7 @@
 <body>
 <div id="globalWrapper">
 <h1 class="title">
-18 Triangulation Algorithms for 2D Positioning (also known as the Resection Problem): benchmarking, software, source code in C, and documentation
+18 Triangulation Algorithms for 2D Positioning (also known as the Resection Problem): benchmarking, software, source code in C, and documentation (including the "ToTal" algorithm)
 </h1>
 <h2 class="author">
 <a class="URL" href="http://www.telecom.ulg.ac.be/publi/Author/PIERLOT-V.html">Vincent Pierlot</a> and <a class="URL" href="http://www.telecom.ulg.ac.be/publi/Author/VAN-DROOGENBROECK-M.html">Marc Van Droogenbroeck</a>, <br/>
