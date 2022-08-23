@@ -4,9 +4,8 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
 <meta name="generator" content="http://www.nongnu.org/elyxer/"/>
-<meta name="create-date" content="2016-12-30"/>
+<meta name="create-date" content="2022-08-23"/>
 <link rel="stylesheet" href="lyx.css" type="text/css" media="all"/>
-
 </head>
 <body>
 <div id="globalWrapper">
@@ -19,13 +18,13 @@
 </h2>
 <div class="Standard">
 <div class="center">
-Scientific paper available in PDF <a class="URL" href="http://ieeexplore.ieee.org/xpl/articleDetails.jsp?tp=&amp;arnumber=6693716">here [IEEE]</a> or <a class="URL" href="http://orbi.ulg.ac.be/bitstream/2268/157469/1/Pierlot2014ANewThree.pdf">here</a>; <a class="URL" href="http://www2.ulg.ac.be/telecom/publi/publications/pierlot/Pierlot2014ANewThree/">HTML version of the article here</a>
+Scientific paper available in PDF <a class="URL" href="http://ieeexplore.ieee.org/xpl/articleDetails.jsp?tp=&amp;arnumber=6693716">here [IEEE]</a> or <a class="URL" href="http://orbi.uliege.be/bitstream/2268/157469/1/Pierlot2014ANewThree.pdf">here</a>; <a class="URL" href="http://www.telecom.ulg.ac.be/publi/publications/pierlot/Pierlot2014ANewThree/">HTML version of the article here</a>
 </div>
 
 </div>
 <div class="Standard">
 <div class="center">
-<b>Keywords:</b> 2D positioning, triangulation, mobile robot positioning, algorithms, benchmarking, software, C source code, <a class="URL" href="doc/index.html">documentation</a>, ToTal algorithm 
+<b>Keywords:</b> 2D positioning, triangulation, mobile robot positioning, algorithms, benchmarking, software, C source code, <a class="URL" href="http://www.telecom.ulg.ac.be/triangulation/doc/index.html">documentation</a>, ToTal algorithm 
 </div>
 
 </div>
@@ -52,7 +51,7 @@ Triangulation setup in the 2D plane. <span class="formula"><i>R</i></span> denot
 This page complements the paper &ldquo;A New Three Object Triangulation Algorithm for Mobile Robot Positioning&rdquo;, published in IEEE Transactions on Robotics (see <span class="bibcites">[<a class="bibliocite" name="cite-15" href="#biblio-15"><span class="bib-index">15</span></a>]</span>); this algorithm was introduced in <span class="bibcites">[<a class="bibliocite" name="cite-14" href="#biblio-14"><span class="bib-index">14</span></a>]</span> and used for the Eurobot contest in an original setup (see <span class="bibcites">[<a class="bibliocite" name="cite-16" href="#biblio-16"><span class="bib-index">16</span></a>]</span>). It is important to note that the “three object triangulation problem” is also known as the “three point resection problem” in the surveying engineering research area. 
 </div>
 <div class="Standard">
-We provide the C source code, programs, <a class="URL" href="doc/index.html">documentation</a>, as well as the instructions to reproduce all the results given in the paper. In Section <a class="Reference" href="#sec:Programs">2↓</a>, we explain how to download and use the program. See Section <a class="Reference" href="#sec:Simulations">4↓</a> for the command lines used to generate the graphics and Section <a class="Reference" href="#sec:Benchmarks">1↓</a> for the command lines used to run the benchmark, reproduced in Table <a class="Reference" href="#tab:Comparison-algorithms">1↓</a>. We also remind our algorithm ToTal in Section <a class="Reference" href="#sec:ToTal-Algorithm">3↓</a>.
+We provide the C source code, programs, <a class="URL" href="http://www.telecom.ulg.ac.be/triangulation/doc/index.html">documentation</a>, as well as the instructions to reproduce all the results given in the paper. In Section <a class="Reference" href="#sec:Programs">2↓</a>, we explain how to download and use the program. See Section <a class="Reference" href="#sec:Simulations">4↓</a> for the command lines used to generate the graphics and Section <a class="Reference" href="#sec:Benchmarks">1↓</a> for the command lines used to run the benchmark, reproduced in Table <a class="Reference" href="#tab:Comparison-algorithms">1↓</a>. We also remind our algorithm ToTal in Section <a class="Reference" href="#sec:ToTal-Algorithm">3↓</a>.
 </div>
 <h1 class="Section">
 <a class="toc" name="toc-Section-1">1</a> Benchmarks
@@ -689,8 +688,8 @@ To run the program, copy the appropriate program (depending on your platform) in
 It generates a <span class="formula">201 × 201</span> grayscale PGM image named &ldquo;<span class="sans">map.pgm</span>&rdquo;, and a <span class="formula">201 × 201</span> color PPM image named &ldquo;<span class="sans">map.ppm</span>&rdquo;. These images are the ones shown in Fig. <a class="Reference" href="#fig:Image-generated-default">2↓</a>. It also generates the corresponding scale images named &ldquo;scale.pgm&rdquo;, and &ldquo;scale.ppm&rdquo;.<div class="float">
 <a class="Label" name="fig:Image-generated-default"> </a><div class="figure">
 <div class="center">
-<img class="embedded" src="map.png" alt="figure map.png" style="max-width: 201px; max-height: 201px;"/>
-<img class="embedded" src="map-color.png" alt="figure map-color.png" style="max-width: 201px; max-height: 201px;"/>
+<img class="embedded" src="img/map.png" alt="figure img/map.png" style="max-width: 201px; max-height: 201px;"/>
+<img class="embedded" src="img/map-color.png" alt="figure img/map-color.png" style="max-width: 201px; max-height: 201px;"/>
 
 </div>
 <div class="caption">
@@ -787,38 +786,38 @@ A Matlab/Octave version is also available: <a class="URL" href="triangulationToT
 <table>
 <tr>
 <td align="center" valign="top">
-<img class="embedded" src="map-perr-10mdeg-M4.png" alt="figure map-perr-10mdeg-M4.png" style="max-width: 201px; max-height: 201px;"/>
+<img class="embedded" src="img/map-perr-10mdeg-M4.png" alt="figure img/map-perr-10mdeg-M4.png" style="max-width: 201px; max-height: 201px;"/>
 
 </td>
 <td align="center" valign="top">
-<img class="embedded" src="map-perr-100mdeg-M4.png" alt="figure map-perr-100mdeg-M4.png" style="max-width: 201px; max-height: 201px;"/>
+<img class="embedded" src="img/map-perr-100mdeg-M4.png" alt="figure img/map-perr-100mdeg-M4.png" style="max-width: 201px; max-height: 201px;"/>
 
 </td>
 <td align="center" valign="top">
-<img class="embedded" src="map-perr-1deg-M4.png" alt="figure map-perr-1deg-M4.png" style="max-width: 201px; max-height: 201px;"/>
+<img class="embedded" src="img/map-perr-1deg-M4.png" alt="figure img/map-perr-1deg-M4.png" style="max-width: 201px; max-height: 201px;"/>
 
 </td>
 <td align="center" valign="top">
-<img class="embedded" src="map-perr-100mdeg-M2.png" alt="figure map-perr-100mdeg-M2.png" style="max-width: 201px; max-height: 201px;"/>
+<img class="embedded" src="img/map-perr-100mdeg-M2.png" alt="figure img/map-perr-100mdeg-M2.png" style="max-width: 201px; max-height: 201px;"/>
 
 </td>
 
 </tr>
 <tr>
 <td align="center" valign="top">
-<img class="embedded" src="map-perr-10mdeg-M4-color.png" alt="figure map-perr-10mdeg-M4-color.png" style="max-width: 201px; max-height: 201px;"/>
+<img class="embedded" src="img/map-perr-10mdeg-M4-color.png" alt="figure img/map-perr-10mdeg-M4-color.png" style="max-width: 201px; max-height: 201px;"/>
 
 </td>
 <td align="center" valign="top">
-<img class="embedded" src="map-perr-100mdeg-M4-color.png" alt="figure map-perr-100mdeg-M4-color.png" style="max-width: 201px; max-height: 201px;"/>
+<img class="embedded" src="img/map-perr-100mdeg-M4-color.png" alt="figure img/map-perr-100mdeg-M4-color.png" style="max-width: 201px; max-height: 201px;"/>
 
 </td>
 <td align="center" valign="top">
-<img class="embedded" src="map-perr-1deg-M4-color.png" alt="figure map-perr-1deg-M4-color.png" style="max-width: 201px; max-height: 201px;"/>
+<img class="embedded" src="img/map-perr-1deg-M4-color.png" alt="figure img/map-perr-1deg-M4-color.png" style="max-width: 201px; max-height: 201px;"/>
 
 </td>
 <td align="center" valign="top">
-<img class="embedded" src="map-perr-100mdeg-M2-color.png" alt="figure map-perr-100mdeg-M2-color.png" style="max-width: 201px; max-height: 201px;"/>
+<img class="embedded" src="img/map-perr-100mdeg-M2-color.png" alt="figure img/map-perr-100mdeg-M2-color.png" style="max-width: 201px; max-height: 201px;"/>
 
 </td>
 
@@ -840,38 +839,38 @@ A Matlab/Octave version is also available: <a class="URL" href="triangulationToT
 </tr>
 <tr>
 <td align="center" valign="top">
-<img class="embedded" src="map-oerr-10mdeg-M4.png" alt="figure map-oerr-10mdeg-M4.png" style="max-width: 201px; max-height: 201px;"/>
+<img class="embedded" src="img/map-oerr-10mdeg-M4.png" alt="figure img/map-oerr-10mdeg-M4.png" style="max-width: 201px; max-height: 201px;"/>
 
 </td>
 <td align="center" valign="top">
-<img class="embedded" src="map-oerr-100mdeg-M4.png" alt="figure map-oerr-100mdeg-M4.png" style="max-width: 201px; max-height: 201px;"/>
+<img class="embedded" src="img/map-oerr-100mdeg-M4.png" alt="figure img/map-oerr-100mdeg-M4.png" style="max-width: 201px; max-height: 201px;"/>
 
 </td>
 <td align="center" valign="top">
-<img class="embedded" src="map-oerr-1deg-M4.png" alt="figure map-oerr-1deg-M4.png" style="max-width: 201px; max-height: 201px;"/>
+<img class="embedded" src="img/map-oerr-1deg-M4.png" alt="figure img/map-oerr-1deg-M4.png" style="max-width: 201px; max-height: 201px;"/>
 
 </td>
 <td align="center" valign="top">
-<img class="embedded" src="map-oerr-100mdeg-M2.png" alt="figure map-oerr-100mdeg-M2.png" style="max-width: 201px; max-height: 201px;"/>
+<img class="embedded" src="img/map-oerr-100mdeg-M2.png" alt="figure img/map-oerr-100mdeg-M2.png" style="max-width: 201px; max-height: 201px;"/>
 
 </td>
 
 </tr>
 <tr>
 <td align="center" valign="top">
-<img class="embedded" src="map-oerr-10mdeg-M4-color.png" alt="figure map-oerr-10mdeg-M4-color.png" style="max-width: 201px; max-height: 201px;"/>
+<img class="embedded" src="img/map-oerr-10mdeg-M4-color.png" alt="figure img/map-oerr-10mdeg-M4-color.png" style="max-width: 201px; max-height: 201px;"/>
 
 </td>
 <td align="center" valign="top">
-<img class="embedded" src="map-oerr-100mdeg-M4-color.png" alt="figure map-oerr-100mdeg-M4-color.png" style="max-width: 201px; max-height: 201px;"/>
+<img class="embedded" src="img/map-oerr-100mdeg-M4-color.png" alt="figure img/map-oerr-100mdeg-M4-color.png" style="max-width: 201px; max-height: 201px;"/>
 
 </td>
 <td align="center" valign="top">
-<img class="embedded" src="map-oerr-1deg-M4-color.png" alt="figure map-oerr-1deg-M4-color.png" style="max-width: 201px; max-height: 201px;"/>
+<img class="embedded" src="img/map-oerr-1deg-M4-color.png" alt="figure img/map-oerr-1deg-M4-color.png" style="max-width: 201px; max-height: 201px;"/>
 
 </td>
 <td align="center" valign="top">
-<img class="embedded" src="map-oerr-100mdeg-M2-color.png" alt="figure map-oerr-100mdeg-M2-color.png" style="max-width: 201px; max-height: 201px;"/>
+<img class="embedded" src="img/map-oerr-100mdeg-M2-color.png" alt="figure img/map-oerr-100mdeg-M2-color.png" style="max-width: 201px; max-height: 201px;"/>
 
 </td>
 
@@ -893,38 +892,38 @@ A Matlab/Octave version is also available: <a class="URL" href="triangulationToT
 </tr>
 <tr>
 <td align="center" valign="top">
-<img class="embedded" src="map-1D-10mdeg-M4.png" alt="figure map-1D-10mdeg-M4.png" style="max-width: 201px; max-height: 201px;"/>
+<img class="embedded" src="img/map-1D-10mdeg-M4.png" alt="figure img/map-1D-10mdeg-M4.png" style="max-width: 201px; max-height: 201px;"/>
 
 </td>
 <td align="center" valign="top">
-<img class="embedded" src="map-1D-100mdeg-M4.png" alt="figure map-1D-100mdeg-M4.png" style="max-width: 201px; max-height: 201px;"/>
+<img class="embedded" src="img/map-1D-100mdeg-M4.png" alt="figure img/map-1D-100mdeg-M4.png" style="max-width: 201px; max-height: 201px;"/>
 
 </td>
 <td align="center" valign="top">
-<img class="embedded" src="map-1D-1deg-M4.png" alt="figure map-1D-1deg-M4.png" style="max-width: 201px; max-height: 201px;"/>
+<img class="embedded" src="img/map-1D-1deg-M4.png" alt="figure img/map-1D-1deg-M4.png" style="max-width: 201px; max-height: 201px;"/>
 
 </td>
 <td align="center" valign="top">
-<img class="embedded" src="map-1D-100mdeg-M2.png" alt="figure map-1D-100mdeg-M2.png" style="max-width: 201px; max-height: 201px;"/>
+<img class="embedded" src="img/map-1D-100mdeg-M2.png" alt="figure img/map-1D-100mdeg-M2.png" style="max-width: 201px; max-height: 201px;"/>
 
 </td>
 
 </tr>
 <tr>
 <td align="center" valign="top">
-<img class="embedded" src="map-1D-10mdeg-M4-color.png" alt="figure map-1D-10mdeg-M4-color.png" style="max-width: 201px; max-height: 201px;"/>
+<img class="embedded" src="img/map-1D-10mdeg-M4-color.png" alt="figure img/map-1D-10mdeg-M4-color.png" style="max-width: 201px; max-height: 201px;"/>
 
 </td>
 <td align="center" valign="top">
-<img class="embedded" src="map-1D-100mdeg-M4-color.png" alt="figure map-1D-100mdeg-M4-color.png" style="max-width: 201px; max-height: 201px;"/>
+<img class="embedded" src="img/map-1D-100mdeg-M4-color.png" alt="figure img/map-1D-100mdeg-M4-color.png" style="max-width: 201px; max-height: 201px;"/>
 
 </td>
 <td align="center" valign="top">
-<img class="embedded" src="map-1D-1deg-M4-color.png" alt="figure map-1D-1deg-M4-color.png" style="max-width: 201px; max-height: 201px;"/>
+<img class="embedded" src="img/map-1D-1deg-M4-color.png" alt="figure img/map-1D-1deg-M4-color.png" style="max-width: 201px; max-height: 201px;"/>
 
 </td>
 <td align="center" valign="top">
-<img class="embedded" src="map-1D-100mdeg-M2-color.png" alt="figure map-1D-100mdeg-M2-color.png" style="max-width: 201px; max-height: 201px;"/>
+<img class="embedded" src="img/map-1D-100mdeg-M2-color.png" alt="figure img/map-1D-100mdeg-M2-color.png" style="max-width: 201px; max-height: 201px;"/>
 
 </td>
 
@@ -1028,9 +1027,6 @@ References
 </div>
 
 <hr class="footer"/>
-<div class="footer" id="generated-by">
-Document generated by <a href="http://elyxer.nongnu.org/">eLyXer 1.2.5 (2013-03-10)</a> on <span class="create-date">2016-12-30T11:40:10.585149</span>
-</div>
 </div>
 </body>
 </html>
