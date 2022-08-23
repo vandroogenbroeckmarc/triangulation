@@ -5,7 +5,7 @@
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
 <meta name="generator" content="http://www.nongnu.org/elyxer/"/>
 <meta name="create-date" content="2022-08-23"/>
-<link rel="stylesheet" href="lyx.css" type="text/css" media="all"/>
+<link rel="stylesheet" href="http://www.telecom.ulg.ac.be/triangulation/lyx.css" type="text/css" media="all"/>
 </head>
 <body>
 <div id="globalWrapper">
@@ -32,7 +32,7 @@ Scientific paper available in PDF <a class="URL" href="http://ieeexplore.ieee.or
 <div class="float">
 <div class="figure">
 <div class="center">
-<img class="embedded" src="triangulation-setup-color.png" alt="figure triangulation-setup-color.png" style="width: 261px; max-width: 1044px; height: 204px; max-height: 816px;"/>
+<center><img class="embedded" src="img/triangulation-setup-color.png" alt="figure triangulation-setup-color.png" style="width: 261px; max-width: 1044px; height: 204px; max-height: 816px;"/></center>
 
 </div>
 <div class="PlainVisible">
@@ -711,7 +711,7 @@ Take a look at the <tt>Makefile</tt>. There is no external library needed to com
 <a class="toc" name="toc-Subsection-2.4">2.4</a> Options when you run the program
 </h2>
 <div class="Standard">
-<a class="URL" href="options.html">Click on this link to get the extensive list of options.</a>
+<a class="URL" href="http://www.telecom.ulg.ac.be/triangulation/options.html">Click on this link to get the extensive list of options.</a>
 </div>
 <h1 class="Section">
 <a class="toc" name="toc-Section-3">3</a> ToTal Algorithm
@@ -768,13 +768,13 @@ Algorithm 1 Final version of the ToTal algorithm.
 <a class="toc" name="toc-Subsection-3.2">3.2</a> The ToTal algorithm in C code
 </h2>
 <div class="Standard">
-A version of ToTal in C is available: <a class="URL" href="doc/total_8c_source.html">total.c</a>. 
+A version of ToTal in C is available: <a class="URL" href="http://www.telecom.ulg.ac.be/triangulation/doc/total_8c_source.html">total.c</a>. 
 </div>
 <h2 class="Subsection">
 <a class="toc" name="toc-Subsection-3.3">3.3</a> The ToTal algorithm in Matlab/Octave code
 </h2>
 <div class="Standard">
-A Matlab/Octave version is also available: <a class="URL" href="triangulationToTal.m">triangulationToTal.m</a>.
+A Matlab/Octave version is also available: <a class="URL" href="matlab/triangulationToTal.m">triangulationToTal.m</a>.
 </div>
 <h1 class="Section">
 <a class="toc" name="toc-Section-4">4</a> Simulations
